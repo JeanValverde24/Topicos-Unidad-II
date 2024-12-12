@@ -21,8 +21,7 @@ Esta aplicación permite a los usuarios reportar problemas en sus comunidades, c
 ### Autor
 👤 **Jean Pier Elias Valverde Zamora**
 - 📚 Código universitario: **2020066920**
-- Proyecto desarrollado como parte de la Unidad II de la asignatura Tópicos.
+- Proyecto desarrollado como parte de la Unidad II de la asignatura Tópicos de Bases de datos avanzados I.
 
 ---
 
-¡Gracias por visitar este repositorio! 🎉 Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
